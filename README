@@ -1,3 +1,7 @@
+bbil's custom build of st forked from (https://git.suckless.org/st)
+
+Note to self, always rebase whenever pulling in downstream updates.
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
